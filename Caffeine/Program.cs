@@ -42,6 +42,7 @@ namespace Caffeine {
                     if (!cafe.ProcessWhiteList.Contains(line))
                         cafe.ProcessWhiteList.Add(line);
                 }
+                cafe.ProcessWhiteList.Sort();
                 reader.Close();
             }
         }

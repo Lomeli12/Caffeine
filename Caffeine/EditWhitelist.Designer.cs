@@ -89,7 +89,7 @@ namespace Caffeine
             this.removeBtn.Name = "removeBtn";
             this.removeBtn.Size = new System.Drawing.Size(75, 23);
             this.removeBtn.TabIndex = 5;
-            this.removeBtn.Text = "<---";
+            this.removeBtn.Text = "Remove";
             this.removeBtn.UseVisualStyleBackColor = true;
             this.removeBtn.Click += new System.EventHandler(this.RemoveBtnClick);
             // 
