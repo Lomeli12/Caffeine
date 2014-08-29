@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Caffeine")]
 [assembly: AssemblyDescription("Keeps your computer awake.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Andrew Okin")]
+[assembly: AssemblyCompany("Andrew Okin, Modified by Lomeli12")]
 [assembly: AssemblyProduct("Caffeine")]
 [assembly: AssemblyCopyright("Copyright © Andrew Okin 2012")]
 [assembly: AssemblyTrademark("")]
